@@ -102,11 +102,15 @@ int main(void)
 ```
 
 
-## Slajd 6 - obrazy
+## Slajd 6 - obrazek
 
 ![](example.jpg){ height=50% width=50%}
 
-## Slajd 7 - tabele
+## Slajg 7 - obrazek wycentrowany z podpisem
+
+![&nbsp; Example 1](example.jpg){ height=50% width=50%}
+
+## Slajd 8 - tabele
 
 | Tables        | Are           | Cool  |
 | ------------- |:-------------:| -----:|
@@ -116,7 +120,7 @@ int main(void)
 
 <!--- W kodzie można dowolnie używać Latexa -->
 
-## Slajd 8 - wzory
+## Slajd 9 - wzory
 
 <!--- wzory wstawiamy bezpośrednio jako jod Latex -->
 
